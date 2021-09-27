@@ -4,4 +4,6 @@
   height: 615px;
   background-size: cover;
   background-repeat: no-repeat;
+  align-self: center;
+  position: relative;
 }

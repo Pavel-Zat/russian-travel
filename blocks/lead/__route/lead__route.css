@@ -1,0 +1,9 @@
+.lead__route {
+  width: 886px;
+  height: 245px;
+  position: absolute;
+  top: 128.61px;
+  left: 41.5px;
+  object-fit: cover;
+  /*transform: rotate(90deg);*/
+}

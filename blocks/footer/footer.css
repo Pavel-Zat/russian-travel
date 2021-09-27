@@ -1,8 +1,8 @@
-.header {
+.footer {
   max-width: 1184px;
-  /*height: 52px;*/
+  padding-top: 92px;
+  padding-bottom: 24px;
   display: flex;
   justify-content: space-between;
   margin: auto;
-  padding-bottom: 56px;
 }

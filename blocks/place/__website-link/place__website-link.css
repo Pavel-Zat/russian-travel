@@ -1,0 +1,8 @@
+.place__website-link {
+  /*text-decoration: none;*/
+  color: #FFFFFF;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: normal;
+  cursor: pointer;
+}
