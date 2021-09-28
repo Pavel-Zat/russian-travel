@@ -13,13 +13,13 @@
   .lead__caption {
     padding: 589px 0 0 0;
   }
-}
+}*/
 @media all and (max-width: 768px) {
   .lead__caption {
-    padding: 489px 0 0 0;
+    padding: 488px 0 0 24px;
   }
 }
-@media all and (max-width: 320px) {
+/*@media all and (max-width: 320px) {
   .lead__caption {
     padding: 209px 0 0 0;
   }

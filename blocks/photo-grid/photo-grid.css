@@ -10,3 +10,22 @@
   padding-top: 92px;
   padding-bottom: 12px;
 }
+@media all and (max-width: 1024px) {
+  .photo-grid {
+    max-width: calc(100%-352px);
+    height: 942px;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows: repeat(4, 225px);
+    gap: 14px;
+  }
+}
+@media all and (max-width: 768px) {
+  .photo-grid {
+    max-width: calc(100%-560px);
+    height: 1664px;
+    grid-template-columns: repeat(2, 352px);
+    grid-template-rows: repeat(6, 264px);
+    gap: 16px;
+    padding-top: 88px;
+  }
+}

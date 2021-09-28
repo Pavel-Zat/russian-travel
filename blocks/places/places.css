@@ -1,5 +1,8 @@
 .places {
-  display: flex;
   padding-bottom: 92px;
-  justify-content: center;
+}
+@media all and (max-width: 768px) {
+  .places {
+    padding-bottom: 90px;
+  }
 }
