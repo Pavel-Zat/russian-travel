@@ -5,21 +5,22 @@
   font-weight: normal;
   width: 640px;
   height: 72px;
-  align-self: center;
   text-align: center;
   margin: 0;
   padding-top: 32px;
   padding-bottom: 64px;
 }
-@media screen and (max-width: 1024px) {
+@media all and (max-width: 1024px) {
   .lead__subtitle {
     padding-bottom: 56px;
   }
-@media screen and (max-width: 768px) {
+/*}
+@media all and (max-width: 768px) {
   .lead__subtitle {
      padding-bottom: 56px;
   }
-@media screen and (max-width: 320px) {
+}
+@media all and (max-width: 320px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
@@ -28,4 +29,4 @@
     padding-bottom: 40px;
     padding-top: 16px;
   }
-}
+}*/
