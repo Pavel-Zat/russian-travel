@@ -1,3 +1,8 @@
 .place__row-two {
   display: flex;
 }
+@media all and (max-width: 320px) {
+  .place__row-two {
+    display: block;
+  }
+}

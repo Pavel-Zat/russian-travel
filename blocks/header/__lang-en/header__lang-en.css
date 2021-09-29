@@ -4,9 +4,9 @@
   color: #FFFFFF;
 }
 
-/*@media all and (max-width: 320px) {
+@media all and (max-width: 320px) {
   .header__lang-en {
     font-size: 18px;
     line-height: 20px;
   }
-}*/
+}

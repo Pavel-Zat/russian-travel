@@ -14,9 +14,8 @@
     padding: 110px 0 0 24px;
   }
 }
-/*@media all and (max-width: 320px) {
+@media all and (max-width: 320px) {
   .intro {
-    max-width: 320px;
-    height: 200px;
+    padding: 40px 0 0 16px;
   }
-}*/
+}

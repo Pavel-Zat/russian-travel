@@ -19,8 +19,8 @@
     padding: 488px 0 0 24px;
   }
 }
-/*@media all and (max-width: 320px) {
+@media all and (max-width: 320px) {
   .lead__caption {
-    padding: 209px 0 0 0;
+    padding: 208px 0 0 16px;
   }
-}*/
+}

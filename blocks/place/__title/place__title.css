@@ -17,9 +17,10 @@
     line-height: 46px;
   }
 }
-/*@media all and (max-width: 320px) {
-  .lead__image {
-    max-width: 320px;
-    height: 200px;
+@media all and (max-width: 320px) {
+  .place__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
   }
-}*/
+}

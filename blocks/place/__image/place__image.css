@@ -14,3 +14,9 @@
     height: 340px;
   }
 }
+@media all and (max-width: 320px) {
+  .place__image {
+    width: 320px;
+    height: 320px;
+  }
+}
