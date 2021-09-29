@@ -9,5 +9,12 @@
   text-align: center;
   margin: 0;
   cursor: pointer;
-  /*display: block;*/
+}
+@media all and (max-width: 320px) {
+  .cover__title {
+    max-width: 240px;
+    min-height: 70px;
+    font-size: 32px;
+    line-height: 35px;
+  }
 }
