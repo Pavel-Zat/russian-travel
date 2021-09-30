@@ -9,7 +9,7 @@
 }
 @media all and (max-width: 768px) {
   .header__lang-link {
-    padding: 46px 0 0 24px;
+    padding: 46px 24px 0 0;
   }
 }
 @media all and (max-width: 320px) {
