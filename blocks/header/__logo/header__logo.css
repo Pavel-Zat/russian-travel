@@ -1,13 +1,19 @@
 .header__logo {
-  width: 176px;
+  max-width: 176px;
   height: 52px;
   padding: 28px 0 0 48px;
   background-color: hsl(216, 6%, 17%);
   color: #FFFFFF;
 }
-/*@media all and (max-width: 320px) {
+@media all and (max-width: 768px) {
   .header__logo {
-    width: 142px;
-    height: 42px;
+    padding: 28px 0 0 24px;
   }
-}*/
+}
+@media all and (max-width: 320px) {
+  .header__logo {
+    max-width: 142px;
+    height: 42px;
+    padding: 16px 0 0 16px;
+  }
+}

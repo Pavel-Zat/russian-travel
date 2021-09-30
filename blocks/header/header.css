@@ -6,16 +6,6 @@
   margin: auto;
   padding-bottom: 56px;
 }
-/*@media all and (max-width: 1024px) {
-  .header {
-    max-width: 928px;
-  }
-}
-@media all and (max-width: 768px) {
-  .header {
-    max-width: 768px;
-  }
-}*/
 @media all and (max-width: 320px) {
   .header {
     max-width: 320px;
