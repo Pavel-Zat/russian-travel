@@ -1,11 +1,16 @@
 .header__lang-link {
   width: 78px;
-  height: 28px;
+  /*min-height: 28px;*/
   margin: 0;
-  padding: 46px 48px 0 0;
+  padding: 46px 0 0 0;
   display: flex;
   justify-content: space-between;
   list-style-type: none;
+}
+@media all and (max-width: 1024px) {
+  .header__lang-link {
+    padding: 46px 24px 0 0;
+  }
 }
 @media all and (max-width: 768px) {
   .header__lang-link {
@@ -15,7 +20,7 @@
 @media all and (max-width: 320px) {
   .header__lang-link {
     max-width: 54px;
-    height: 20px;
+    /*min-height: 20px;*/
     padding: 30px 16px 0 0;
   }
 }
