@@ -18,6 +18,7 @@
     grid-template-rows: repeat(3, 213px);
     gap: 16px;
   }
+}
 @media all and (max-width: 1024px) {
   .photo-grid {
     max-width: 928px;
