@@ -1,10 +1,10 @@
-.place__row-one {
+.place__row-upper {
   display: flex;
   align-items: end;
   padding-bottom: 48px;
 }
 @media all and (max-width: 320px) {
-  .place__row-one {
+  .place__row-upper {
     display: block;
     padding-left: 16px;
     padding-bottom: 32px;
