@@ -3,13 +3,21 @@
   max-width: 1184px;
   height: 671px;
   display: grid;
-  grid-template-columns: repeat(4, minmax(200px, 1fr));
+  grid-template-columns: repeat(4, 284px);
   grid-template-rows: repeat(3, 213px);
   gap: 16px;
   justify-content: center;
   padding-top: 92px;
   padding-bottom: 12px;
 }
+@media all and (max-width: 1280px) {
+  .photo-grid {
+    max-width: 1184px;
+    height: 671px;
+    grid-template-columns: repeat(4, minmax(240px,auto));
+    grid-template-rows: repeat(3, 213px);
+    gap: 16px;
+  }
 @media all and (max-width: 1024px) {
   .photo-grid {
     max-width: 928px;
