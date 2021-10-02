@@ -4,6 +4,11 @@
   padding-top: 80px;
   padding-left: 148px;
 }
+@media all and (max-width: 1280px) {
+  .place {
+    max-width: 92.5%;;
+  }
+}
 @media all and (max-width: 1024px) {
   .place {
     padding-left: 48px;

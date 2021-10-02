@@ -3,7 +3,7 @@
   font-size: 30px;
   line-height: 36px;
   font-weight: normal;
-  width: 640px;
+  max-width: 640px;
   min-height: 72px;
   text-align: center;
   margin: 0;
@@ -24,7 +24,7 @@
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
-    width: 288px;
+    max-width: 288px;
     min-height: 40px;
     padding-bottom: 40px;
     padding-top: 16px;
