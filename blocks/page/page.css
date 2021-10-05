@@ -15,12 +15,12 @@
     min-width: 1024px;
   }
 }*/
-/*@media all and (max-width: 767px) {
+@media all and (max-width: 767px) {
   .page {
-    min-width: 768px;
+    max-width: 768px;
   }
 }
-@media all and (max-width: 319px) {
+/*@media all and (max-width: 319px) {
   .page {
     min-width: 320px;
   }
