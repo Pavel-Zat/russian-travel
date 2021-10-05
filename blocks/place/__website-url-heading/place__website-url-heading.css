@@ -4,6 +4,8 @@
   font-size: 12px;
   line-height: 12px;
   font-weight: normal;
+  padding-top: 10px;
+  padding-bottom: 12px;
 }
 @media all and (max-width: 767px) {
   .place__website-url-heading {
