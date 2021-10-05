@@ -4,7 +4,7 @@
   text-decoration: underline;
   color: #FFFFFF;
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .header__lang-ru {
     font-size: 18px;
     line-height: 20px;

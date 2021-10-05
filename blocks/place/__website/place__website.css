@@ -1,7 +1,7 @@
 .place__website {
   padding-left: 40px;
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .place__website {
     padding-left: 0;
     padding-top: 32px;

@@ -5,13 +5,18 @@
   margin: auto;
   padding-bottom: 56px;
 }
-@media all and (max-width: 1280px) {
+@media all and (max-width: 1279px) {
   .header {
-    max-width: 92.5%;
+    min-width: 1024px;
   }
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 1023px) {
   .header {
-    max-width: 320px;
+    min-width: 768px;
+  }
+}
+@media all and (max-width: 767px) {
+  .header {
+    min-width: 320px;
   }
 }

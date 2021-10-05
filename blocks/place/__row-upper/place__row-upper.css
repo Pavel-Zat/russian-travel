@@ -3,7 +3,7 @@
   align-items: end;
   padding-bottom: 48px;
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .place__row-upper {
     display: block;
     padding-left: 16px;

@@ -1,21 +1,21 @@
 .header__logo {
   max-width: 176px;
   height: 52px;
-  padding: 28px 0 0 0;
+  padding: 48px 0 0 0;
   background-color: hsl(216, 6%, 17%);
   color: #FFFFFF;
 }
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1279px) {
   .header__logo {
     padding: 48px 0 0 24px;
   }
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
   .header__logo {
     padding: 28px 0 0 24px;
   }
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .header__logo {
     max-width: 142px;
     height: 42px;

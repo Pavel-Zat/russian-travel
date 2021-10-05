@@ -5,7 +5,7 @@
   line-height: 12px;
   font-weight: normal;
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .place__website-url-heading {
     padding-bottom: 12px;
   }

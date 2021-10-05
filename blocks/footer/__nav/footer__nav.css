@@ -4,7 +4,7 @@
   grid-template-rows: repeat(1, 18px);
   gap: 18px;
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .footer__nav {
     display: grid;
     grid-template-columns: 158px;

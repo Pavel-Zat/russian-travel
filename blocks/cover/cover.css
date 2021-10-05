@@ -45,9 +45,9 @@
     min-height: 200px;
   }
 }
-@media all and (max-width: 320px) {
+/*@media all and (max-width: 320px) {
   .cover::before {
     max-width: 320px;
     min-height: 200px;
   }
-}
+}*/

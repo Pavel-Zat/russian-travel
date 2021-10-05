@@ -7,17 +7,17 @@
   justify-content: space-between;
   list-style-type: none;
 }
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1279px) {
   .header__lang-link {
     padding: 46px 24px 0 0;
   }
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
   .header__lang-link {
     padding: 46px 24px 0 0;
   }
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .header__lang-link {
     max-width: 54px;
     /*min-height: 20px;*/
