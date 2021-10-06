@@ -5,6 +5,7 @@
   line-height: 22px;
   font-weight: normal;
   cursor: pointer;
+  padding-bottom: 23px;
 }
 @media all and (max-width: 767px) {
   .place__website-link {
