@@ -6,3 +6,10 @@
   font-weight: normal;
   cursor: pointer;
 }
+@media all and (max-width: 767px) {
+  .place__website-link {
+    position: absolute;
+    top: 142px;
+    left: 16px;
+  }
+}

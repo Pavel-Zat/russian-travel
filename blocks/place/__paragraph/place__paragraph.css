@@ -16,10 +16,12 @@
   .place__paragraph {
     max-width: 352px;
     font-size: 16px;
+    padding-top: 25px;
   }
 }
 @media all and (max-width: 767px) {
   .place__paragraph {
     max-width: 288px;
+    padding-top: 25px;
   }
 }

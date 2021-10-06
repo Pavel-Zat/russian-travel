@@ -19,5 +19,6 @@
     display: block;
     padding-top: 52px;
     padding-left: 0;
+    position: relative;
   }
 }
