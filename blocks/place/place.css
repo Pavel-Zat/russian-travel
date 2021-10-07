@@ -1,5 +1,6 @@
 .place {
   display: flex;
+  flex-direction: column;
   padding-top: 80px;
   padding-left: 148px;
 }
@@ -16,9 +17,7 @@
 }
 @media all and (max-width: 767px) {
   .place {
-    display: block;
     padding-top: 52px;
     padding-left: 0;
-    position: relative;
   }
 }

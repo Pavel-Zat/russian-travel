@@ -10,8 +10,5 @@
 @media all and (max-width: 767px) {
   .place__website-url-heading {
     padding-bottom: 12px;
-    position: absolute;
-    top: 115px;
-    left: 16px;
   }
 }

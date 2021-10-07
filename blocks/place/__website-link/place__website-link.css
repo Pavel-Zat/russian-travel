@@ -5,12 +5,10 @@
   line-height: 22px;
   font-weight: normal;
   cursor: pointer;
-  padding-bottom: 23px;
+  padding-bottom: 0;
 }
 @media all and (max-width: 767px) {
   .place__website-link {
-    position: absolute;
-    top: 142px;
-    left: 16px;
+
   }
 }
