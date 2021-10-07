@@ -6,7 +6,7 @@
   max-width: 720px;
   min-height: 200px;
   text-align: center;
-  margin: 0;
+  margin: auto;
 }
 @media all and (max-width: 767px) {
   .lead__title {
