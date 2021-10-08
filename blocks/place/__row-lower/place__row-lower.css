@@ -1,9 +1,21 @@
 .place__row-lower {
   display: flex;
+  max-width: 984px;
+}
+@media all and (max-width: 1279px) {
+  .place__row-lower {
+    max-width: 928px;
+  }
+}
+@media all and (max-width: 1023px) {
+  .place__row-lower {
+    max-width: 720px;
+  }
 }
 @media all and (max-width: 767px) {
   .place__row-lower {
     display: flex;
     flex-direction: column;
+    max-width: 320px;
   }
 }
