@@ -12,6 +12,7 @@
   .place__image {
     width: auto;
     height: 340px;
+  }
 }
 @media all and (max-width: 767px) {
   .place__image {
