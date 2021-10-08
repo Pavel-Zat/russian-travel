@@ -1,8 +1,0 @@
-.place__column-left {
-}
-@media all and (max-width: 767px) {
-  .place__column-left {
-    padding-left: 0;
-    padding-top: 0;
-  }
-}
