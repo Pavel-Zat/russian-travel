@@ -1,25 +1,24 @@
-.header__lang-link {
-  /*width: 78px;*/
-  /*min-height: 28px;*/
+.lang-links {
   margin: 0;
   padding: 46px 0 0 0;
   display: flex;
-  /*justify-content: space-between;*/
   list-style-type: none;
 }
+
 @media all and (max-width: 1279px) {
-  .header__lang-link {
+  .lang-links {
     padding: 46px 48px 0 0;
   }
 }
+
 @media all and (max-width: 1023px) {
-  .header__lang-link {
+  .lang-links {
     padding: 46px 24px 0 0;
   }
 }
+
 @media all and (max-width: 767px) {
-  .header__lang-link {
-    /*max-width: 54px;*/
+  .lang-links {
     padding: 30px 16px 0 0;
   }
 }
