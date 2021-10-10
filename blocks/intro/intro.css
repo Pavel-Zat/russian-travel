@@ -1,20 +1,27 @@
 .intro {
   display: flex;
   flex-direction: column;
-  padding: 114px 0 0 148px;
+  max-width: 1280px;
+  margin: auto;
+  padding: 92px 0 0 148px;
 }
+
 @media all and (max-width: 1279px) {
   .intro {
-    padding: 114px 0 0 48px;
+    max-width: 1024px;
   }
 }
+
 @media all and (max-width: 1023px) {
   .intro {
-    padding: 110px 0 0 24px;
+    max-width: 768px;
+    padding: 88px 0 0 24px;
   }
 }
+
 @media all and (max-width: 767px) {
   .intro {
-    padding: 86px 0 0 16px;
+    max-width: 320px;
+    padding: 64px 0 0 16px;
   }
 }

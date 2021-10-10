@@ -3,16 +3,17 @@
   max-width: 1184px;
   min-height: 740px;
   background-size: cover;
-  display: flex;
   color: white;
+  /*display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: center;*/
   margin: auto;
   position: relative;
   /*cursor: pointer;*/
   z-index: 1;
 }
+
 .cover::before {
   content: '';
   position: absolute;
@@ -20,25 +21,29 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-color:#2A2C2F;
+  background-color: #2A2C2F;
   opacity: 0.3;
   z-index: -1;
 }
+
 .cover:hover::before {
   opacity: 0.8;
 }
+
 @media all and (max-width: 1279px) {
   .cover {
     max-width: 1024px;
     min-height: 640px;
   }
 }
+
 @media all and (max-width: 1023px) {
   .cover {
     max-width: 768px;
     min-height: 480px;
   }
 }
+
 @media all and (max-width: 767px) {
   .cover {
     max-width: 320px;

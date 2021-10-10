@@ -6,7 +6,6 @@
 }
 @media all and (max-width: 767px) {
   .footer__nav {
-    display: grid;
     grid-template-columns: 158px;
     grid-template-rows: repeat(5, 24px);
     gap: 32px;

@@ -1,7 +1,7 @@
 .header__logo {
   max-width: 176px;
   height: 52px;
-  padding: 28px 0 0 48px;
+  padding: 28px 0 0 0;
   background-color: hsl(216, 6%, 17%);
   color: #FFFFFF;
 }

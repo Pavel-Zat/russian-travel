@@ -5,23 +5,26 @@
   padding-top: 80px;
   padding-left: 148px;
 }
+
 @media all and (max-width: 1279px) {
   .place {
     /*max-width: 928px;*/
     padding-left: 48px;
   }
 }
+
 @media all and (max-width: 1023px) {
   .place {
     /*max-width: 720px;*/
-    padding-top: 76px;
+    padding-top: 73px;
     padding-left: 24px;
   }
 }
+
 @media all and (max-width: 767px) {
   .place {
     /*max-width: 320px;*/
-    padding-top: 52px;
+    padding-top: 25px;
     padding-left: 0;
   }
 }

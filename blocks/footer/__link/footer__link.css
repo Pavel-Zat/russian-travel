@@ -4,8 +4,9 @@
   line-height: 18px;
   font-weight: normal;
   max-width: 50px;
-  min-height: 18px;
+  /*min-height: 18px;*/
   text-decoration: none;
+  cursor: pointer;
 }
 @media all and (max-width: 767px) {
   .footer__link {

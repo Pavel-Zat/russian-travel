@@ -1,0 +1,19 @@
+.header__lang-link_ru {
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration: none;
+  color: #FFFFFF;
+  padding-right: 18px;
+  cursor: pointer;
+}
+
+.header__lang-link_ru:hover {
+  text-decoration: underline;
+}
+
+@media all and (max-width: 767px) {
+  .header__lang-link_ru {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

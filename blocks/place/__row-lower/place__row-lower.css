@@ -14,7 +14,6 @@
 }
 @media all and (max-width: 767px) {
   .place__row-lower {
-    display: flex;
     flex-direction: column;
     max-width: 320px;
   }

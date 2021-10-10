@@ -6,6 +6,7 @@
   font-weight: normal;
   padding-top: 0;
   padding-bottom: 12px;
+  letter-spacing: 2px;
 }
 @media all and (max-width: 767px) {
   .place__website-url-heading {
