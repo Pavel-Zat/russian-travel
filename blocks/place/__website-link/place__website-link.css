@@ -7,8 +7,6 @@
   cursor: pointer;
   padding-bottom: 0;
 }
-@media all and (max-width: 767px) {
-  .place__website-link {
-
-  }
+.place__website-link:hover {
+  opacity: 0.5;
 }

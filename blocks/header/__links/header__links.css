@@ -1,24 +1,24 @@
-.lang-links {
+.header__links {
+  display: flex;
   margin: 0;
   padding: 46px 0 0 0;
-  display: flex;
   list-style-type: none;
 }
 
 @media all and (max-width: 1279px) {
-  .lang-links {
+  .header__links {
     padding: 46px 48px 0 0;
   }
 }
 
 @media all and (max-width: 1023px) {
-  .lang-links {
+  .header__links {
     padding: 46px 24px 0 0;
   }
 }
 
 @media all and (max-width: 767px) {
-  .lang-links {
+  .header__links {
     padding: 30px 16px 0 0;
   }
 }
