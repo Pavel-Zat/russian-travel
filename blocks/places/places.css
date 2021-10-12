@@ -13,13 +13,13 @@
 @media all and (max-width: 1023px) {
   .places {
     max-width: 768px;
-    padding-bottom: 64px;
+    padding-bottom: 90px;
   }
 }
 
 @media all and (max-width: 767px) {
   .places {
     max-width: 320px;
-    padding-bottom: 40px;
+    padding-bottom: 66px;
   }
 }

@@ -2,7 +2,7 @@
   max-width: 484px;
   color: #FFFFFF;
   font-size: 18px;
-  line-height: 163%;
+  line-height: 29px;
   font-weight: normal;
   margin: 0;
   padding-left: 40px;
@@ -17,7 +17,8 @@
   .place__paragraph {
     max-width: 352px;
     font-size: 16px;
-    padding-left: 32px;
+    line-height: 26px;
+    padding-left: 28px;
   }
 }
 @media all and (max-width: 767px) {

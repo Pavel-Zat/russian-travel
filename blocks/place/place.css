@@ -16,7 +16,7 @@
 @media all and (max-width: 1023px) {
   .place {
     /*max-width: 720px;*/
-    padding-top: 47px;
+    padding-top: 73px;
     padding-left: 24px;
   }
 }
@@ -24,7 +24,7 @@
 @media all and (max-width: 767px) {
   .place {
     /*max-width: 320px;*/
-    padding-top: 25px;
+    padding-top: 50px;
     padding-left: 0;
   }
 }

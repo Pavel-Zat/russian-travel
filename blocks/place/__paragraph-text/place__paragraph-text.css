@@ -2,3 +2,13 @@
   margin: 0;
   padding-bottom: 26px;
 }
+
+.place__paragraph-text:last-of-type {
+  padding-bottom: 0;
+}
+
+@media all and (max-width: 1023px) {
+  .place__paragraph-text {
+    padding-bottom: 25px;
+  }
+}
